@@ -247,3 +247,10 @@
 
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<body style="background-color: black;">
+    <h1>This is a heading on a black background</h1>
+    <p style="color: white;">This is a paragraph with white text for contrast.</p>
+</body>
+</html>
