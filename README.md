@@ -274,36 +274,5 @@
     }
 </style>
 </head>
-<body>
 
-<h2>Popular Bread Brands</h2>
-
-<div class="gallery">
-    <!-- Bonn -->
-    <div class="brand-card">
-        <img src="https://www.bigbasket.com" alt="Bonn Bread">
-        <div class="brand-name">Bonn</div>
-    </div>
-    
-    <!-- English Oven -->
-    <div class="brand-card">
-        <img src="https://www.bigbasket.com" alt="English Oven Bread">
-        <div class="brand-name">English Oven</div>
-    </div>
-    
-    <!-- Britannia -->
-    <div class="brand-card">
-        <img src="https://www.bigbasket.com" alt="Britannia Bread">
-        <div class="brand-name">Britannia</div>
-    </div>
-</div>
-
-</body>
-</html>
-
-<!DOCTYPE html>
-<html>
-<body style="background-color: green;">
-    <h1>This page has a green background.</h1>
-</body>
 
