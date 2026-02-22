@@ -66,8 +66,8 @@
         .call-btn { background-color: var(--primary-blue); color: white; }
         .btn:hover { transform: translateY(-3px); opacity: 0.9; }
 
-        /* Bonn Special Showcase */
-        .bonn-section {
+        /*  Special Showcase */
+        .section {
             background: #fff; border-radius: 20px; padding: 25px;
             margin: 20px auto 40px; border: 2px solid var(--bonn-gold);
             max-width: 1000px; box-shadow: 0 5px 15px rgba(0,0,0,0.05);
