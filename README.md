@@ -249,8 +249,7 @@
 </html>
 <!DOCTYPE html>
 <html>
-<!-- Hex code color -->
-<p style="color: #008000;">This text is green.</p>
+<body style="background-color: green;">
+    <h1>This page has a green background.</h1>
+</body>
 
-<!-- CSS background color -->
-<div style="background-color: #32CD32; padding: 10px;">Lime Green Box</div>
