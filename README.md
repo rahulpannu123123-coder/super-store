@@ -248,6 +248,60 @@
 </body>
 </html>
 <!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+    .gallery {
+        display: flex;
+        gap: 20px;
+        font-family: Arial, sans-serif;
+    }
+    .brand-card {
+        border: 1px solid #ccc;
+        padding: 10px;
+        width: 200px;
+        text-align: center;
+        border-radius: 8px;
+    }
+    .brand-card img {
+        width: 100%;
+        height: 150px;
+        object-fit: contain;
+    }
+    .brand-name {
+        font-weight: bold;
+        margin-top: 10px;
+    }
+</style>
+</head>
+<body>
+
+<h2>Popular Bread Brands</h2>
+
+<div class="gallery">
+    <!-- Bonn -->
+    <div class="brand-card">
+        <img src="https://www.bigbasket.com" alt="Bonn Bread">
+        <div class="brand-name">Bonn</div>
+    </div>
+    
+    <!-- English Oven -->
+    <div class="brand-card">
+        <img src="https://www.bigbasket.com" alt="English Oven Bread">
+        <div class="brand-name">English Oven</div>
+    </div>
+    
+    <!-- Britannia -->
+    <div class="brand-card">
+        <img src="https://www.bigbasket.com" alt="Britannia Bread">
+        <div class="brand-name">Britannia</div>
+    </div>
+</div>
+
+</body>
+</html>
+
+<!DOCTYPE html>
 <html>
 <body style="background-color: green;">
     <h1>This page has a green background.</h1>
